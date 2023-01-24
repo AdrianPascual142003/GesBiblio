@@ -1,0 +1,7 @@
+<template>
+    <h1>Sobre nosotros</h1>
+    <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a diam blandit, euismod est non, bibendum justo. Integer non ullamcorper sapien, quis tristique mi. In quis egestas ex. Mauris porttitor mattis lacinia. Etiam eu dignissim enim. Nullam imperdiet imperdiet sem non luctus. Maecenas vitae elementum dolor, sed pulvinar diam. Nam vestibulum volutpat tincidunt. Duis aliquam consequat tellus nec varius. Ut quis mollis arcu, at accumsan est.
+        Integer aliquam consequat lectus nec ultrices. Nam malesuada quis arcu eu mollis. Aenean consequat nisl et libero imperdiet ullamcorper. Pellentesque facilisis lorem eu tempor egestas. Etiam mollis lorem et est iaculis, quis pretium velit pharetra. Quisque sem risus, sodales sit amet iaculis consectetur, volutpat quis tortor. Quisque egestas orci vehicula rutrum eleifend. Etiam elementum leo in tortor tempor, at pellentesque nibh gravida. Praesent eget facilisis orci, sed imperdiet urna. Maecenas nec augue in ex volutpat consequat. Sed vel ultricies libero. Morbi ac bibendum dolor. Sed vitae dictum dui, vitae ornare est. Aliquam libero arcu, ullamcorper eu sem cursus, vehicula consequat tortor. Nulla maximus quam quis dolor cursus luctus. 
+    </p>
+</template>
